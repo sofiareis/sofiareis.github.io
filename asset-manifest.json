@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sofiareis.github.io/static/css/main.4cf52522.chunk.css",
-    "main.js": "/sofiareis.github.io/static/js/main.61f612ed.chunk.js",
-    "main.js.map": "/sofiareis.github.io/static/js/main.61f612ed.chunk.js.map",
+    "main.js": "/sofiareis.github.io/static/js/main.46084a86.chunk.js",
+    "main.js.map": "/sofiareis.github.io/static/js/main.46084a86.chunk.js.map",
     "runtime-main.js": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js",
     "runtime-main.js.map": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js.map",
-    "static/js/2.25e7c10f.chunk.js": "/sofiareis.github.io/static/js/2.25e7c10f.chunk.js",
-    "static/js/2.25e7c10f.chunk.js.map": "/sofiareis.github.io/static/js/2.25e7c10f.chunk.js.map",
+    "static/js/2.282bf2d9.chunk.js": "/sofiareis.github.io/static/js/2.282bf2d9.chunk.js",
+    "static/js/2.282bf2d9.chunk.js.map": "/sofiareis.github.io/static/js/2.282bf2d9.chunk.js.map",
     "index.html": "/sofiareis.github.io/index.html",
     "static/css/main.4cf52522.chunk.css.map": "/sofiareis.github.io/static/css/main.4cf52522.chunk.css.map",
-    "static/js/2.25e7c10f.chunk.js.LICENSE.txt": "/sofiareis.github.io/static/js/2.25e7c10f.chunk.js.LICENSE.txt",
+    "static/js/2.282bf2d9.chunk.js.LICENSE.txt": "/sofiareis.github.io/static/js/2.282bf2d9.chunk.js.LICENSE.txt",
     "static/media/GIF.88889107.gif": "/sofiareis.github.io/static/media/GIF.88889107.gif",
     "static/media/Tora_5.210533df.JPG": "/sofiareis.github.io/static/media/Tora_5.210533df.JPG",
     "static/media/alacrity_certo.d6d3575f.png": "/sofiareis.github.io/static/media/alacrity_certo.d6d3575f.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e4d61e2.js",
-    "static/js/2.25e7c10f.chunk.js",
+    "static/js/2.282bf2d9.chunk.js",
     "static/css/main.4cf52522.chunk.css",
-    "static/js/main.61f612ed.chunk.js"
+    "static/js/main.46084a86.chunk.js"
   ]
 }

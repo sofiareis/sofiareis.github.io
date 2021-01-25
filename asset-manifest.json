@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sofiareis.github.io/static/css/main.4cf52522.chunk.css",
-    "main.js": "/sofiareis.github.io/static/js/main.e766a236.chunk.js",
-    "main.js.map": "/sofiareis.github.io/static/js/main.e766a236.chunk.js.map",
-    "runtime-main.js": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js",
-    "runtime-main.js.map": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js.map",
-    "static/js/2.0204d239.chunk.js": "/sofiareis.github.io/static/js/2.0204d239.chunk.js",
-    "static/js/2.0204d239.chunk.js.map": "/sofiareis.github.io/static/js/2.0204d239.chunk.js.map",
-    "index.html": "/sofiareis.github.io/index.html",
-    "static/css/main.4cf52522.chunk.css.map": "/sofiareis.github.io/static/css/main.4cf52522.chunk.css.map",
-    "static/js/2.0204d239.chunk.js.LICENSE.txt": "/sofiareis.github.io/static/js/2.0204d239.chunk.js.LICENSE.txt",
-    "static/media/GIF.88889107.gif": "/sofiareis.github.io/static/media/GIF.88889107.gif",
-    "static/media/Tora_5.210533df.JPG": "/sofiareis.github.io/static/media/Tora_5.210533df.JPG",
-    "static/media/alacrity_certo.d6d3575f.png": "/sofiareis.github.io/static/media/alacrity_certo.d6d3575f.png",
-    "static/media/Risc.css": "/sofiareis.github.io/static/media/boj.3ee05826.jpg",
-    "static/media/sofia.9f2fd97c.jpeg": "/sofiareis.github.io/static/media/sofia.9f2fd97c.jpeg",
-    "static/media/sven.0d0f3513.JPG": "/sofiareis.github.io/static/media/sven.0d0f3513.JPG"
+    "main.css": "/static/css/main.ba55dd62.chunk.css",
+    "main.js": "/static/js/main.e766a236.chunk.js",
+    "main.js.map": "/static/js/main.e766a236.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d25ba2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d25ba2e.js.map",
+    "static/js/2.0204d239.chunk.js": "/static/js/2.0204d239.chunk.js",
+    "static/js/2.0204d239.chunk.js.map": "/static/js/2.0204d239.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ba55dd62.chunk.css.map": "/static/css/main.ba55dd62.chunk.css.map",
+    "static/js/2.0204d239.chunk.js.LICENSE.txt": "/static/js/2.0204d239.chunk.js.LICENSE.txt",
+    "static/media/GIF.88889107.gif": "/static/media/GIF.88889107.gif",
+    "static/media/Tora_5.210533df.JPG": "/static/media/Tora_5.210533df.JPG",
+    "static/media/alacrity_certo.d6d3575f.png": "/static/media/alacrity_certo.d6d3575f.png",
+    "static/media/Risc.css": "/static/media/boj.3ee05826.jpg",
+    "static/media/sofia.9f2fd97c.jpeg": "/static/media/sofia.9f2fd97c.jpeg",
+    "static/media/sven.0d0f3513.JPG": "/static/media/sven.0d0f3513.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e4d61e2.js",
+    "static/js/runtime-main.4d25ba2e.js",
     "static/js/2.0204d239.chunk.js",
-    "static/css/main.4cf52522.chunk.css",
+    "static/css/main.ba55dd62.chunk.css",
     "static/js/main.e766a236.chunk.js"
   ]
 }

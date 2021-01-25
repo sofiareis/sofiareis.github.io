@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c5426dfc.chunk.css",
-    "main.js": "/my-app/static/js/main.e766a236.chunk.js",
-    "main.js.map": "/my-app/static/js/main.e766a236.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.8c504172.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.8c504172.js.map",
-    "static/js/2.0204d239.chunk.js": "/my-app/static/js/2.0204d239.chunk.js",
-    "static/js/2.0204d239.chunk.js.map": "/my-app/static/js/2.0204d239.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.c5426dfc.chunk.css.map": "/my-app/static/css/main.c5426dfc.chunk.css.map",
-    "static/js/2.0204d239.chunk.js.LICENSE.txt": "/my-app/static/js/2.0204d239.chunk.js.LICENSE.txt",
-    "static/media/GIF.88889107.gif": "/my-app/static/media/GIF.88889107.gif",
-    "static/media/Tora_5.210533df.JPG": "/my-app/static/media/Tora_5.210533df.JPG",
-    "static/media/alacrity_certo.d6d3575f.png": "/my-app/static/media/alacrity_certo.d6d3575f.png",
-    "static/media/Risc.css": "/my-app/static/media/boj.3ee05826.jpg",
-    "static/media/sofia.9f2fd97c.jpeg": "/my-app/static/media/sofia.9f2fd97c.jpeg",
-    "static/media/sven.0d0f3513.JPG": "/my-app/static/media/sven.0d0f3513.JPG"
+    "main.css": "/sofiareis.github.io/static/css/main.4cf52522.chunk.css",
+    "main.js": "/sofiareis.github.io/static/js/main.e766a236.chunk.js",
+    "main.js.map": "/sofiareis.github.io/static/js/main.e766a236.chunk.js.map",
+    "runtime-main.js": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js",
+    "runtime-main.js.map": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js.map",
+    "static/js/2.0204d239.chunk.js": "/sofiareis.github.io/static/js/2.0204d239.chunk.js",
+    "static/js/2.0204d239.chunk.js.map": "/sofiareis.github.io/static/js/2.0204d239.chunk.js.map",
+    "index.html": "/sofiareis.github.io/index.html",
+    "static/css/main.4cf52522.chunk.css.map": "/sofiareis.github.io/static/css/main.4cf52522.chunk.css.map",
+    "static/js/2.0204d239.chunk.js.LICENSE.txt": "/sofiareis.github.io/static/js/2.0204d239.chunk.js.LICENSE.txt",
+    "static/media/GIF.88889107.gif": "/sofiareis.github.io/static/media/GIF.88889107.gif",
+    "static/media/Tora_5.210533df.JPG": "/sofiareis.github.io/static/media/Tora_5.210533df.JPG",
+    "static/media/alacrity_certo.d6d3575f.png": "/sofiareis.github.io/static/media/alacrity_certo.d6d3575f.png",
+    "static/media/Risc.css": "/sofiareis.github.io/static/media/boj.3ee05826.jpg",
+    "static/media/sofia.9f2fd97c.jpeg": "/sofiareis.github.io/static/media/sofia.9f2fd97c.jpeg",
+    "static/media/sven.0d0f3513.JPG": "/sofiareis.github.io/static/media/sven.0d0f3513.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c504172.js",
+    "static/js/runtime-main.0e4d61e2.js",
     "static/js/2.0204d239.chunk.js",
-    "static/css/main.c5426dfc.chunk.css",
+    "static/css/main.4cf52522.chunk.css",
     "static/js/main.e766a236.chunk.js"
   ]
 }

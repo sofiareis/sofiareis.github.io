@@ -9,13 +9,14 @@ import Sven from './components/pages/Sven';
 import Boba from './components/pages/Boba';
 import Tora from './components/pages/Tora';
 import Risc from './components/pages/Risc';
-
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import ScrollToTop from './components/scroll'
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 
 function App() {
   return (
     <>
-    <Router>
+    <Router basename="/">
+      <ScrollToTop/>
       <Navbar />
       <Switch>
         <Route path='/' exact component={Home}/>

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sofiareis.github.io/static/css/main.68fc3364.chunk.css",
-    "main.js": "/sofiareis.github.io/static/js/main.f10b0505.chunk.js",
-    "main.js.map": "/sofiareis.github.io/static/js/main.f10b0505.chunk.js.map",
+    "main.css": "/sofiareis.github.io/static/css/main.099db989.chunk.css",
+    "main.js": "/sofiareis.github.io/static/js/main.9fa4b41b.chunk.js",
+    "main.js.map": "/sofiareis.github.io/static/js/main.9fa4b41b.chunk.js.map",
     "runtime-main.js": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js",
     "runtime-main.js.map": "/sofiareis.github.io/static/js/runtime-main.0e4d61e2.js.map",
-    "static/js/2.e191a1ad.chunk.js": "/sofiareis.github.io/static/js/2.e191a1ad.chunk.js",
-    "static/js/2.e191a1ad.chunk.js.map": "/sofiareis.github.io/static/js/2.e191a1ad.chunk.js.map",
+    "static/js/2.0e985a68.chunk.js": "/sofiareis.github.io/static/js/2.0e985a68.chunk.js",
+    "static/js/2.0e985a68.chunk.js.map": "/sofiareis.github.io/static/js/2.0e985a68.chunk.js.map",
     "index.html": "/sofiareis.github.io/index.html",
-    "static/css/main.68fc3364.chunk.css.map": "/sofiareis.github.io/static/css/main.68fc3364.chunk.css.map",
-    "static/js/2.e191a1ad.chunk.js.LICENSE.txt": "/sofiareis.github.io/static/js/2.e191a1ad.chunk.js.LICENSE.txt",
+    "static/css/main.099db989.chunk.css.map": "/sofiareis.github.io/static/css/main.099db989.chunk.css.map",
+    "static/js/2.0e985a68.chunk.js.LICENSE.txt": "/sofiareis.github.io/static/js/2.0e985a68.chunk.js.LICENSE.txt",
     "static/media/GIF.88889107.gif": "/sofiareis.github.io/static/media/GIF.88889107.gif",
     "static/media/Tora_5.210533df.JPG": "/sofiareis.github.io/static/media/Tora_5.210533df.JPG",
     "static/media/alacrity_certo.d6d3575f.png": "/sofiareis.github.io/static/media/alacrity_certo.d6d3575f.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e4d61e2.js",
-    "static/js/2.e191a1ad.chunk.js",
-    "static/css/main.68fc3364.chunk.css",
-    "static/js/main.f10b0505.chunk.js"
+    "static/js/2.0e985a68.chunk.js",
+    "static/css/main.099db989.chunk.css",
+    "static/js/main.9fa4b41b.chunk.js"
   ]
 }

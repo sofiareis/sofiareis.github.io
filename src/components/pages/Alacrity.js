@@ -26,10 +26,10 @@ function Alacrity() {
           <p>
             <Grid container spacing={2}>
               <Grid item xs={4} sm={6} md={4}>
-                <img style={{ paddingLeft: 50 }} src={image} alt="image" height={150} />
+                <img style={{ paddingLeft: 8 }} src={image} alt="image" height={190} />
               </Grid>
               <Grid item xs={8}>
-                <p style={{ paddingTop: 50, paddingLeft: 80, marginLeft: 30, paddingBottom: 50, textAlign: 'justify' }}>
+                <p style={{ fontSize: 17,paddingTop: 50, paddingLeft: 80, marginLeft: 30, paddingBottom: 50, textAlign: 'justify' }}>
               Alacrity is a web app meant to help students manage their time.
               It provides an interface for students to enter their due dates, plan work sessions
               and rearrange those work sessions to spread the work out more evenly.

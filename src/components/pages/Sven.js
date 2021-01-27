@@ -27,10 +27,10 @@ function Sven() {
           <p>
             <Grid container spacing={2}>
               <Grid item xs={4} sm={6} md={4}>
-                <img style={{ paddingLeft: 80 }} src={image} alt="image" height={300} />
+                <img style={{ paddingLeft: 20 }} src={image} alt="image" height={330} />
               </Grid>
               <Grid item xs={8}>
-                <p style={{ paddingTop: 100, paddingLeft: 50, marginLeft: 30 }}>
+                <p style={{ paddingTop: 100, paddingLeft: 50, marginLeft: 30, fontSize: 17 }}>
                   The main robot was constructed using the provided robot kit,
                   with the motors being connected to the motor hat that sits on top of 
                   the Raspberry Pi. External batteries were used to power both the motor hat

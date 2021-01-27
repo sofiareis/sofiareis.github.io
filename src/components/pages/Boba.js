@@ -25,7 +25,7 @@ function Boba() {
           <p>
             <Grid container spacing={2}>
               <Grid item xs={4} sm={6} md={4}>
-                <img style={{ paddingLeft: 80, paddingTop: 45 }} src={image} alt="image" height={350} />
+                <img style={{ paddingLeft: 30, paddingTop: 70 }} src={image} alt="image" height={390} />
               </Grid>
               <Grid item xs={8}>
                 <p style={{ paddingTop: 35, paddingLeft: 50, marginLeft: 30 }}>

@@ -27,10 +27,10 @@ function Tora() {
           <p>
             <Grid container spacing={2}>
               <Grid item xs={4} sm={6} md={4}>
-                <img style={{ paddingLeft: 50 }} src={image} alt="image" height={300} />
+                <img style={{ paddingLeft: 20 }} src={image} alt="image" height={330} />
               </Grid>
               <Grid item xs={8}>
-                <p style={{ paddingTop: 50, paddingLeft: 60, marginLeft: 30, paddingBottom: 50 }}>
+                <p style={{ paddingTop: 50, paddingLeft: 60, marginLeft: 30, paddingBottom: 50, fontSize: 17 }}>
                   A robot that moves like it is dancing! <br></br>
                   To have to robot seemingly do multiple things at once, we broke each task down to smaller tasks and
                   then cycled through all of the tasks in the master loop. The ultrasonic sensor, and the LCD updates took negligible time but the dance
@@ -41,7 +41,7 @@ function Tora() {
               </Grid>
             </Grid>
           </p>
-          <div style={{ paddingBottom: 50 }} className='code'>
+          <div style={{ paddingBottom: 50}} className='code'>
             Checkout the code &nbsp;
                 <a target="_blank" href='https://github.com/sofiareis/DancingBiPed' className={classes.git2}>
               <i paddingRight='20px' class="fab fa-github fa-2x" ></i>
